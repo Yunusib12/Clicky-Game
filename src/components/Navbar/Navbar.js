@@ -1,7 +1,7 @@
 import React from 'react';
 import './Navbar.css';
 
-const Navbar = props => (
+const Navbar = (props) => (
     <div className="navbar ">
         <div className="navTitle">Clicky Game</div>
         <div className={props.messageColor}>{props.message}</div>

@@ -97,7 +97,7 @@ class Game extends Component {
             shake: false
         });
 
-        // removes the green correct indicator on a successful click after .5s to re-render the class on each success
+        // removes the correct indicator on a successful click after .5s to re-render the class on each success
         return setTimeout(() => this.setState({ messageColor: '' }), 500);
     }
 
