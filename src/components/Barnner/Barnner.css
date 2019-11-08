@@ -1,0 +1,18 @@
+.banner {
+  height: 207px;
+  margin: 0 !important;
+  padding: 0 !important;
+  color: #007bff;
+  font-size: 18px;
+  background-color: #0276e224;
+}
+
+p.mt-6 {
+  margin-top: 6rem !important;
+}
+
+@media (min-width: 576px) {
+  .banner {
+    font-size: calc(10px + 14 * (100vw - 320px) / 800);
+  }
+}
