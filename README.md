@@ -20,7 +20,7 @@ User is presented with 12 images. In order to achieve the highest possible score
 
 ### Screenshots
 
-<img src="https://yunusibrahim.me/clickygame/public/assets/images/clickygame.jgp?raw=true">
+<img src="https://yunusibrahim.me/clickygame/public/assets/images/clickygame.jpg?raw=true">
 
 ### Technologies Used
 * HTML
